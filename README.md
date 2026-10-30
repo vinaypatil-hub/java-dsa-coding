@@ -14,3 +14,8 @@ Data Structures and Algorithms.
 ## Goal
 To strengthen my programming fundamentals and
 build projects for a future software engineering career.
+
+## My Java Learning Journey
+-Day 1: Java basics and variables 
+-Day 2: If-else statements 
+-Day 3: For loop and while loop 
