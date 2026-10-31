@@ -19,3 +19,4 @@ build projects for a future software engineering career.
 -Day 1: Java basics and variables 
 -Day 2: If-else statements 
 -Day 3: For loop and while loop 
+-Day 4: Java arrays and array operations 
