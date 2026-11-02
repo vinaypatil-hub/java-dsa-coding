@@ -21,3 +21,4 @@ build projects for a future software engineering career.
 -Day 3: For loop and while loop 
 -Day 4: Java arrays and array operations 
 -Day 5: Array sum, average, largest and smallest elements 
+-Day 6: Counting even and odd numbers using arrays
