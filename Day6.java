@@ -11,9 +11,9 @@ public class Day6 {
       if (numbers[i] % 2 == 0) {
         even++;
 
-        System.out.println(numbers[i]);
       } else {
         odd++;
+        System.out.println(numbers[i]);
       }
     }
 
