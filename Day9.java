@@ -44,6 +44,11 @@ public class Day9 {
         System.out.println("\n===== GAME OVER =====");
         System.out.println("Your score: " + score + "/5");
 
+        double percentage = (score / 5.0) * 100;
+        
+
+        System.out.println("Percentage: " + percentage + "%");
+
         sc.close();
     }
 }
