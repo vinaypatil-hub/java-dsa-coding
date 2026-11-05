@@ -49,6 +49,14 @@ public class Day9 {
 
         System.out.println("Percentage: " + percentage + "%");
 
+        if (score == 5) {            
+            System.out.println("Excellent performance!");
+        } else if (score >= 3) {
+            System.out.println("Good job!");
+        } else {
+            System.out.println("Keep practising!");
+        }
+
         sc.close();
     }
 }
