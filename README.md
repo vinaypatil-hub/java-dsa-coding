@@ -23,3 +23,4 @@ build projects for a future software engineering career.
 -Day 5: Array sum, average, largest and smallest elements 
 -Day 6: Counting even and odd numbers using arrays
 -Day 7: Built a Number Guessing Game using Scanner, Random, loops and if-else
+-Day 9: Built a Java Quiz Game using arrays, loops and Scanner
