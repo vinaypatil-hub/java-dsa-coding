@@ -24,4 +24,5 @@ build projects for a future software engineering career.
 -Day 6: Counting even and odd numbers using arrays
 -Day 7: Built a Number Guessing Game using Scanner, Random, loops and if-else
 -Day 9: Built a Java Quiz Game using arrays, loops and Scanner
--Day 10 : Built a Java simple game Rock Paper Scissors 
+-Day 10: Built a Java simple game Rock Paper Scissors 
+-Day 11: Built a simple Math challenge game 
